@@ -1,0 +1,3 @@
+# Ignore file and directories that are heavy
+node_modules/
+.env
